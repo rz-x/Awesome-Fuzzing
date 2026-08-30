@@ -320,6 +320,8 @@ https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruptio
 
 [boofuzz](https://github.com/jtpereyda/boofuzz) -  A fork and successor of Sulley framework.
 
+[network-proto-fuzzer](https://github.com/rz-x/network-proto-fuzzer) - Lightweight IPv4/IPv6 TCP protocol fuzzer for network anomaly detection and resilience testing.
+
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
 [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A framework which contains some fuzzing capabilities via Auxiliary modules.
